@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header
+    creationtool="Manual extraction script"
+    creationtoolversion="1.0"
+    segtype="sentence"
+    o-tmf="justice.gc.ca XML"
+    adminlang="en-CA"
+    srclang="en-CA"
+    datatype="plaintext"
+    creationdate="20260326T162514Z"
+    creationid="LIU_Guofei"
+  />
+  <body>
+    <tu
+      tuid="C-001"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>WHEREAS <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>it is desirable in<ept i="2">&lt;/i&gt;</ept> the <hi x="5" type="term">public interest of Canada</hi> to acquire and preserve the great historic battlefields at Quebec, restoring so far as possible their principa<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>l features, so as to make them a <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Canadian National Park<ept i="1">&lt;/b&gt;</ept>;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>CONSIDÉRANT qu’il es<ept i="2">&lt;/i&gt;</ept>t à<ept i="1">&lt;/b&gt;</ept> désirer dans l’<hi x="5" type="term">intérêt public du Canada</hi> d’acquérir et de conserver les grands champs de bataille historiques de Québec, de rétablir autant que possible dans les grandes lignes l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>eur physionomie originaire et de les convertir en un parc national;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-002"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Whereas <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>considerable portions of these<ept i="2">&lt;/i&gt;</ept> grounds are already vested in <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>His Majesty<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">for the military o<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>r</hi> other public purposes of Canada;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Considérant que ces terrains<ept i="2">&lt;/i&gt;</ept> sont déjà en grande partie la propriété de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Sa Majesté<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">pour les besoins militaire<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>s</hi> ou autres usages publics du Canada;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-003"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Whereas <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>it is antici<ept i="2">&lt;/i&gt;</ept>pated that,<ept i="1">&lt;/b&gt;</ept> in addition to the appropriation of <hi x="5" type="term">public moneys of Canada</hi> hereby authorized, the various provincial governments, as well as municipal or other bodies, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and many private individuals, will contribute generously to the aforesaid project;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Considérant qu’en ou<ept i="2">&lt;/i&gt;</ept>tre du<ept i="1">&lt;/b&gt;</ept> crédit sur les <hi x="5" type="term">fonds publics du Canada</hi> autorisé par la présente loi, il est à prévoir que les différents gouvernements provinciaux, de même que des corporations municipales et autres <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>et nombre de particuliers, vont souscrire généreusement au dit projet;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-004"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>And <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>whereas it is expedient<ept i="1">&lt;/b&gt;</ept> to provide for the constitution of a commission for the acquisition, management and control, <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>subject to the provisions of this Act<ept i="2">&lt;/i&gt;</ept><hi x="5" type="term">, of the said</hi> bat<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>tlefields and the moneys contributed for the said purposes;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Et considérant qu’il est<ept i="1">&lt;/b&gt;</ept> à propos de prendre des mesures pour constituer une commission chargée de l’acquisition, de l’administration et du gouvernement des dits champs de bataille <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>sous le régime de la présente <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>loi<ept i="2">&lt;/i&gt;</ept><hi x="5" type="term">, ainsi que de</hi> la gestion des fonds contribués pour les dits objets;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-005"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Therefore <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>His Majesty<ept i="2">&lt;/i&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> by and with the advice and consent of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Senate and House of Common<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>s<ept i="1">&lt;/b&gt;</ept> of <hi x="5" type="term">Canada, enacts as follows:</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">À ces causes,</hi> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Sa Majesté<ept i="2">&lt;/i&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> de l’avis et du consentement du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Sénat et de la Chambre des <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>communes<ept i="1">&lt;/b&gt;</ept> du Canada, décrète :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-006"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The Governor in Council may appoint seven Commissioners,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> who shall hold office <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>during the pleasure of the Governor in Council<ept i="2">&lt;/i&gt;</ept>, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and who, with any additional Commissioners who may be appointed under the authority of this Act, shall be a <hi x="5" type="term">body politic and corporate</hi> under the name of “<bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The National Battlefields Commission<ept i="1">&lt;/b&gt;</ept>”.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le Gouverneur en conseil peut nommer sept commissaires,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> qui conservent leur charge <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>durant le bon plaisir du Gouverneur en conseil<ept i="2">&lt;/i&gt;</ept>, et qui, avec tous commissaires additionnels qui peuvent être nommés sous l’autorité de la présente loi, sont constitué<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>s en une <hi x="5" type="term">corporation sous le nom</hi> de « <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des champs de bataille nationaux<ept i="1">&lt;/b&gt;</ept> ».</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-007"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Government of any province<ept i="2">&lt;/i&gt;</ept> which contributes a sum not less than one hundred thousand dollars to the purposes of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">shall be entitled to</hi> appoint a commissioner,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and such commissioner shall hold office during the pleasure of the Government of the province.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le gouvernement de toute<ept i="2">&lt;/i&gt;</ept> province qui contribue une somme d’au moins cent mille dollars aux objets de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> a <hi x="5" type="term">droit de nommer un</hi> commissaire,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et ce commis<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>saire est révocable par le gouvernement de la province.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-008"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>If the <hi x="5" type="term">Government of the</hi> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>United Kingdom<ept i="2">&lt;/i&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> or of any self-governing colony of the Empire, contributes a sum not less than one hundred thousand dollars to the purposes of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the commission<ept i="1">&lt;/b&gt;</ept>, such Government shall be entitled to appoint a commissioner, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and such commissioner shall hold office during the pleasure of the Government which appoints him.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Si le gouvernement du<ept i="2">&lt;/i&gt;</ept> Royaume-Uni ou de quelque colonie autonome de l’Empire,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> contribue une somme de cent mille dollars au moins aux objets de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, ce gouvernement a</hi> droit de nommer un commissaire, et ce co<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>mmissaire est révocable par le gouvernement dont il tient sa nomination.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-009"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Governor in Council<ept i="1">&lt;/b&gt;</ept> shall name one of the commissioners appointed <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>by the Governor in Council<ept i="2">&lt;/i&gt;</ept> to <hi x="5" type="term">be chairman of the</hi> commission,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and he shall hold office as such chairman during pleasure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le Gouverneur en conseil<ept i="2">&lt;/i&gt;</ept> nomme un des commissaires nommés par <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Gouverneur en consei<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>l<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">président de la Commission,</hi> et ce dernie<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>r est révocable en sa qualité de Président.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-010"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Governor in Council<ept i="1">&lt;/b&gt;</ept> shall appoint a competent person to be secretary of the commission,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> who shall hold office during pleasure, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and receive such salary as is fixed <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>by the Governor in Council<ept i="2">&lt;/i&gt;</ept> and <hi x="5" type="term">provided by Parliament.</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le Gouverneur en conseil<ept i="2">&lt;/i&gt;</ept> nomme une personne compétente secrétaire de la Commission,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et ce secrétaire est révocable et touche le traitement qui est déterminé p<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ar <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Gouverneur en conseil<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">et voté par le</hi> Parlement.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-011"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>commissioners, including the chairman,<ept i="1">&lt;/b&gt;</ept> shall serve without remuneration,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>but shall be entitled to receive their <hi x="5" type="term">actual disbursements</hi> for expenses necessarily incurred by them in the discharge of their powers or duties <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under this Act<ept i="2">&lt;/i&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Les commissaires, y compris<ept i="1">&lt;/b&gt;</ept> le Président,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> remplissent leur charge sans rémunération, mais ont droit de toucher ce qu’ils déboursent réellement pour les <hi x="5" type="term">dépenses nécessaires</hi> qu’ils font dans l’<bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>exe<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>rcice<ept i="2">&lt;/i&gt;</ept> des pouvoirs et fonctions que leur attribue la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-012"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The commission may purchase,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> acquire and hold the lands or <hi x="5" type="term">immovable property</hi> in <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept>, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>or <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>in the vicinity thereof<ept i="2">&lt;/i&gt;</ept>, where the great battles were fought, or which were occupied by the various commands of the respective armies upon the battlefields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La Commission peut acheter,<ept i="2">&lt;/i&gt;</ept> acquérir et posséder les terrains ou autres <hi x="5" type="term">propriétés immobilières</hi>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> dans <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept> ou les environs, où se sont livrées les grandes batailles ou qui étaient occupées par l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>es différents corps des armées respectives sur les champs de bataille.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-013"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>If the purchase of any land or <hi x="5" type="term">immovable property</hi>, or of any interest therein, is authorized under the provisions of this Act, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and the commission is unable to agree with the owner as to the purchase, acquisition or transfer thereof, or the price to be paid therefor, or if a person interested therein is incapable of making a deed or conveyance, or if for any other reason the commission deems it advisable to proceed compulsorily, proceedings may be taken under <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Expropriation Act<ept i="1">&lt;/b&gt;</ept> for the acquisition of the said land, immovable property, or interest therein and for the vesting of the title thereof in the commission;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> and in any such case, except as herein otherwise provided, all the provisions of <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The Expropriation Act<ept i="2">&lt;/i&gt;</ept> shall, unless there is something repugnant in the subject or context, apply, mutatis mutandis , to such lands or immovable property and to the acquisition thereof and to the determination of the compensation and damages.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Si l’achat de quelque</hi> terrain ou immeuble, ou de quelque intérêt dans le dit immeuble est autorisé <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>sous le régime de la présente loi<ept i="2">&lt;/i&gt;</ept> et si la Commission ne peut s’entendre avec le propriétaire sur l’achat, l’acquisition ou la cession du dit immeuble, ou sur le prix à payer de cet immeuble, ou si une personne y intéressée est incapable d’en donner un titre ou une cession, ou si pour quelque autre raison la Commission juge à propos de procéder par voie de contrainte, des procédures peuvent être instituées sous l’empire de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Loi des expropriations<ept i="1">&lt;/b&gt;</ept> pour l’acquisition du dit terrain, ou immeuble ou intérêt dans le dit immeuble et pour en faire attribuer le titre à la Commission;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et dans tout pareil cas, excepté s’il y est autrement prévu en la présente loi; toutes les dis<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>positions de la Loi des expropriations doivent, à moins qu’il y ait quelque chose d’inconciliable dans le sujet ou le contexte, s’appliquer mutatis mutandis à ces terrains ou immeubles ou à leur acquisition et à la détermination de l’indemnité et des dommages.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-014"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A plan and description purporting to be signed by the chairman and secretary of the commission shall have the same effect <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>for the purposes of this Act<ept i="2">&lt;/i&gt;</ept> as a plan and description signed by the Minister or deputy minister has under <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Expropriation Act<ept i="1">&lt;/b&gt;</ept> ;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and for all purposes of the proceedings authorized by this Act the provisions of <hi x="5" type="term">The Expropriation Act</hi> shall, unless there is something repugnant in the subject or context, be construed with the substitution of the commission for His Majesty, for the Crown and for the Minister.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Un plan et une description paraissant être signés par le président et par le secrétaire de la Commission ont, <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>pour les objets de la présente loi<ept i="2">&lt;/i&gt;</ept>, le même effet qu’ont un plan et une description signés par le Ministre ou le député du Ministre sous le régime de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Loi des expropriations<ept i="1">&lt;/b&gt;</ept> ;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et pour toutes les procédures autorisées par la présente loi, les dispositions de la Loi des expropriations doivent, à moins qu’il yait quelqu<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>e chose d’inconciliable dans le sujet ou le contexte, être interprétées en substituant la Commission à <hi x="5" type="term">Sa Majesté</hi>, à la Couronne ou au Ministre.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-015"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>In any case in which land or property is acquired,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> taken or injuriously affected <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under the authority of this Act<ept i="2">&lt;/i&gt;</ept>, <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Attorney General of Canada<ept i="1">&lt;/b&gt;</ept> may cause an information in the name of <hi x="5" type="term">His Majesty</hi>, upon the relation of the commission, to be exhibited in the Federal Court of Canada, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and the provisions of The Expropriation Act shall, unless there is something repugnant in the subject or context, apply to such information and the proceedings thereunder in the same manner, mutatis mutandis , as they apply to the like informations and proceedings on behalf of His Majesty under the said Act: Provided that His Majesty shall not in any case be liable for any compensation, damages, costs or charges incurred in such proceedings, but the relators shall be subject to the payment of such compensation, damages, costs or charges as may be adjudged by the court.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Dans tous les cas où un terrain ou un immeuble est acquis,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> pris ou détérioré sous l’empire de la présente loi, le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>procureur général du Canada<ept i="1">&lt;/b&gt;</ept> peut, sur la demande de la Commission, instituer une action au nom de <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Sa Majesté<ept i="2">&lt;/i&gt;</ept>, devant la Cour fédérale du Canada, et les dispositions de la Loi des expropriations doivent, à moins qu’il y ait quelque chose d’inconciliable dans le sujet ou le contexte, s’appliquer à cette action et aux procédures qui en découlent de la même manière mutatis mutandis , qu’elles s’appliquent à de pareilles actions et procédures instituées au nom de <hi x="5" type="term">Sa Majesté</hi> sous l’empire de la dite loi : Cependant Sa Majesté n’<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>est en aucun cas passible des indemnités, dommages, frais ou charges découlant de ces procédures, mais les demandeurs sont exposés au paiement des indemnités, dommages, frais ou charges que peut adjuger le tribunal.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-016"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The commission may,<ept i="1">&lt;/b&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>La Commission peut<ept i="1">&lt;/b&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-017"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>receive and <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>expend any moneys, whether<ept i="2">&lt;/i&gt;</ept> appropriated by <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Parliament<ept i="1">&lt;/b&gt;</ept> or the <hi x="5" type="term">legislatures or contributed by</hi> any municipal or other body or private ind<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ividual, for the purposes authorized by this Act;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>recevoir et employer toutes<ept i="2">&lt;/i&gt;</ept> sommes affectées par le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Parlement<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">ou les législatures ou</hi> contribuées par quelque corporation municipale ou autre ou par des <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>particuliers, aux objets visés par la présente loi;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-018"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>remove <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>all buildings<ept i="2">&lt;/i&gt;</ept> and other<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">structures upon the lands</hi> taken or acquired, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and erect a museum and such monuments and statues or other works as seem fitting or appropriate;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> and</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>enlever tous bâtimen<ept i="2">&lt;/i&gt;</ept>ts et<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">toutes autres constructions qui</hi> se trouvent sur les terrains pris ou acquis, y construire un musée et ériger des monuments, statu<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>es ou autres ouvrages qui sont jugés convenables;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-019"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>lay <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>out and construct on<ept i="2">&lt;/i&gt;</ept> or through the said lands such avenues,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> drives or paths, gardens, squares or other works as are, in the opinion of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, desirable for the</hi> improvement of the grounds and the conversion thereof into a national <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>park of a character to commemorate worthily the great events which happened there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>tracer et construire<ept i="2">&lt;/i&gt;</ept> sur<ept i="1">&lt;/b&gt;</ept> les dits terrains,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> des avenues, des promenades et des sen<hi x="5" type="term">tiers</hi>, des jardins, squares ou autres ouvrages qu’elle juge à propos pour l’embellissement du terrain et la conversion de celui-ci en un par<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>c national digne de commémorer les grands événements qui s’y sont déroulés.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-020"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <hi x="5" type="term">Minister of Finance is</hi> hereby authorized to pay out of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Consolidated Revenue Fund<ept i="1">&lt;/b&gt;</ept> of Canada to the Commission the sum of one hundred and twenty-five thousand dollars a year for a period not exceeding four years from the 1st day of April,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> 1954, to be <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>expended by the Commission for the purposes and <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>subject to the provisions of this Act<ept i="2">&lt;/i&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le ministre des Finances<ept i="2">&lt;/i&gt;</ept> est par les présentes autorisé à verser à la Commission,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> sur <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Fonds du revenu consolidé<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">du Canada et pendant</hi> une période d’au plus quatre ans, à compter du 1 er avril 1954, la somme de cent vingt-cinq mille dollars par année, que la<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> Commission doit dépenser aux fins et sous réserve des dispositions de la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-021"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The amount payable to <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> under this section shall be paid in four equal <hi x="5" type="term">quarterly instalments</hi> on the first day of April,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> July, October, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and January, respectively, in each <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>fiscal year<ept i="2">&lt;/i&gt;</ept> but the first of such quarterly instalments shall be paid forthwith upon the commencement of this section.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le montant payable à<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> selon le présent article doit être acquitté en quatre <hi x="5" type="term">versements trimestriels</hi> égaux,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> le premier jour d’avril, de juillet, d’octobre et de janvier, respectivement, de chaque année financière, mais le premier de ces ve<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>rsements trimestriels doit être effectué dès l’entrée en vigueur du présent article.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-022"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Governor in Council<ept i="1">&lt;/b&gt;</ept> is authorized to appropriate <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>for the purposes of the commission<ept i="2">&lt;/i&gt;</ept> all the lands or <hi x="5" type="term">immovable property</hi> <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>now vested in His Majesty for the military or other public pur<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>poses of Canada and forming part of the aforesaid battlefields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Gouverneur en conseil<ept i="1">&lt;/b&gt;</ept> est autorisé à affecter aux objets de la Commission tous les immeubles que possède <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Sa Maj<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>esté<ept i="2">&lt;/i&gt;</ept> <hi x="5" type="term">pour les besoins militaires</hi> ou autres usages publics<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> du Canada et qui font partie des dits champs de bataille.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-023"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><hi x="5" type="term">There shall be established</hi> in <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Consolidated Revenue Fund<ept i="1">&lt;/b&gt;</ept> a special account t<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>o be known as the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>National Battlefields <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>Trust Account<ept i="2">&lt;/i&gt;</ept> to which shall be credited</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Au <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Fonds du revenu c<ept i="2">&lt;/i&gt;</ept>onsolidé<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">est ouvert un compte</hi> spécial appelé Com<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>pte de fiducie des champs de batai<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>lle nationaux auquel sont crédités</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-024"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><hi x="5" type="term">all money received by</hi> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commiss<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ion<ept i="1">&lt;/b&gt;</ept> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>by gift, bequ<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>est or otherwise<ept i="2">&lt;/i&gt;</ept>,</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">toutes les sommes d’argent</hi> reçues par <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>par donatio<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>n, legs ou autrement<ept i="2">&lt;/i&gt;</ept>;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-025"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><hi x="5" type="term">all money received by</hi> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> as interest on any securities or as re<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>nt on any property acquired by the Com<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>mission <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>by gift, bequest or otherwise<ept i="2">&lt;/i&gt;</ept>,</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">toutes les sommes d’argent</hi> reçues par <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> à titre d’intérêt sur toutes valeurs ou à titre de loyer de tous biens acquis par l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>a Commission <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>par donation, legs ou autrement<ept i="2">&lt;/i&gt;</ept>;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-026"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><hi x="5" type="term">all money received by</hi> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> from the sale of any real or person<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>al property acquired by the Commissi<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>on <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>by gift, bequest or otherwise<ept i="2">&lt;/i&gt;</ept>, and</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">toutes les sommes d’argent</hi> reçues par <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> et provenant de la vente de tous biens meubles ou immeubles acquis par la <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>Commission <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>par donation, legs ou autrement<ept i="2">&lt;/i&gt;</ept>;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-027"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>an <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>amount representing interest on<ept i="2">&lt;/i&gt;</ept> the balance from time to time to the credit of the Account,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> at such rates and calculated in such <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>manner as <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Governor in Council<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">prescribes,</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>un montant représentant l’intérêt<ept i="2">&lt;/i&gt;</ept> sur le solde créditeur périodique du Compte,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> calculé aux taux et selon la méthode<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> que prescrit <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le gouverneur en conseil<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">,</hi></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-028"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>and to <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>which shall be charged<ept i="2">&lt;/i&gt;</ept> such amounts as are authorized by <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> to <hi x="5" type="term">be expended for the</hi> purpose for which such money or property was given,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> bequ<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>eathed or otherwise made available to the Commission.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>et auquel sont débités<ept i="2">&lt;/i&gt;</ept> les montants que <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">autorise à dépenser aux</hi> fins pour lesquelles ces sommes ou biens ont été donnés,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> légués ou<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> autrement mis à la disposition de la Commission.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-029"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>lands or immovable property<ept i="2">&lt;/i&gt;</ept> shall be purchased or acquired by<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">except with the <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>previous</hi> approval of Parliament.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Aucun terrain ou bien<ept i="2">&lt;/i&gt;</ept> immobilier ne doit être acheté ou acquis p<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ar <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">sauf avec l’ass<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>entiment préalable</hi> du Parlement.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-030"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No <hi x="5" type="term">expenditure shall be made</hi> and no liabilities shall be incurred by the Commission until funds sufficient to cover such expenditure or liabilities shall be at its disposal for the purposes of this Act, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and the Commission shall, before entering upon any work of improvement or construction, or any other work involving the expenditure of money, upon the lands taken or acquired <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under the authority of this Act<ept i="2">&lt;/i&gt;</ept>, cause to be prepared plans of the proposed works showing locations, and submit the said plans for the approval of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Governor in Council<ept i="1">&lt;/b&gt;</ept>, and the Commission shall furnish such further descriptions or information to the Governor in Council as are required;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> and no such works shall be proceeded with until approved by the Governor in Council.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Nulle dépense ne doit</hi> être faite, et nul engagement ne doit être pris par la Commission tant que les fonds suffisants pour faire honneur à ces dépenses ou engagements ne seront pas à sa disposition <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>pour les objets de la présente loi<ept i="2">&lt;/i&gt;</ept>, et la Commission doit, avant d’entreprendre quelques ouvrages d’amélioration ou de construction, ou quelque ouvrage qui entraîne des emplois d’argent, sur les terrains pris ou acquis sous l’autorité de la présente loi, faire dresser des plans des ouvrages proposés en indiquant leur situation, et soumettre ces plans à l’approbation du Gouverneur en conseil, et la Commission<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> doit fournir tels autres renseignements ou descriptions que <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Gouverneur en conseil<ept i="1">&lt;/b&gt;</ept> peut exiger;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et nuls pareils ouvrages ne doivent être faits tant que le Gouverneur en conseil ne les aura pas agréés.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-031"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>commission shall render to<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Minister of Finance<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, on or before</hi> the first day of June in each year, detailed statements of all its receipts and expenditures up to the thirty-first day of March in that year;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and copies of such statements shall be laid before Parliament by the Minister of Finance within the first fourteen days of the next following session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La Commission doit fournir<ept i="2">&lt;/i&gt;</ept> annuellement au ministre des Finances, le ou avant le premier jour de juin, des états détaillés de toutes ses recettes et dépenses jusqu’au trente et unième jour de mars précédent;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le ministre des Finances<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">présente au Parl<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ement copies</hi> des dits états dans les quatorze premiers jours de la session suivante.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-032"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>commission shall, whenever required<ept i="2">&lt;/i&gt;</ept> by <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Minister of Finance<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, render detailed accounts</hi> of its receipts and expenditures for such period or to such date as he names;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> and all books of account, records, bank books and papers of the commission shall at all times be open to the inspection of the Minister of Finance, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>or of any person authorized by him.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Chaque fois qu’elle en<ept i="2">&lt;/i&gt;</ept> est requise par <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le ministre des Finances<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, la Commission doit</hi> rendre des comptes détaillés de ses recettes et emplois d’argent pour la période et jusqu’à la date qu’il indique;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et tous les livres de comptes, les livrets de banque, les écritures et papiers de la Commission doivent en tout te<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>mps être à la disposition du ministre des Finances ou de toute personne par lui autorisée à les examiner.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-033"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>All <hi x="5" type="term">accounts, receipts and expenditures</hi> of the commission shall be subject to the audit of the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Auditor General<ept i="2">&lt;/i&gt;</ept> as in the case of public moneys,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and subject to the provisions, so far as applicable, of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Consolidated Revenue and Audit Act<ept i="1">&lt;/b&gt;</ept> .</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Les comptes, recettes et<ept i="2">&lt;/i&gt;</ept> dépenses de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">sont tous assujettis à</hi> l’audition de l’auditeur général comme lorsqu’il s’agit des fonds publics,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et subordonnés aux dispositions, en tant qu’elles<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> sont applicables, de la Loi du revenu consolidé et de l’audition .</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-034"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>member of<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">shall have, nor shall</hi> the secretary have,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> any contract with the commission, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>or be pecuniarily interested, directly or indirectly, in any contract or work with regard to which any portion of the moneys at the credit of the commission is being or is to be expended.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Nul membre de<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">non plus que le</hi> secrétaire de cette dernière ne peut être partie à un contrat avec la Commission ni être pécuniairement intéressé,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> soit directement soit indirectement, dans aucun contrat ou ouvrage à l’égard duquel s’<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>emploie ou doit être employée quelque partie des fonds au crédit de la Commission.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-035"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Whereas the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>present year not only<ept i="2">&lt;/i&gt;</ept> will, it is hoped, mark the setting apart of the battlefields as herein authorized, but is also the tercentenary of the founding of the city of Quebec and the establishment of French government and civilization upon the shores of the St. Lawrence by Samuel de Champlain, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and it is desirable that these events be appropriately commemorated: Be it therefore enacted that the commission may, under the authority and direction of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Governor in Council<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, arrange for and</hi> carry out at a convenient time a celebration, in every respect worthy and fit, of the tercentenary of the founding of Quebec by Champlain, and the dedication of the battlefields to the general public purposes of Canada as provided by this Act;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> and that the commission may, subject to the sanction and approval of the Governor in Council, expend and lay out, for the purposes of the said celebration, such portion of the sum of three hundred thousand dollars hereinbefore appropriated as is authorized by the commission subject to such sanction and approval.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Considérant que non seulement<ept i="2">&lt;/i&gt;</ept> l’année actuelle va marquer, il est à espérer, la consécration des champs de bataille selon que l’autorise la présente loi, mais que cette année est encore le trois-centième anniversaire de la fondation de la cité de Québec et de l’établissement du gouvernement français et de la civilisation sur les bords du Saint-Laurent par Samuel de Champlain, et qu’il est à désirer que ces événements soient commémorés ainsi qu’il convient;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> il est en conséquence décrété que la Commission peut, sous l’autorité et la direction du Gouvernement en conseil, organiser et réaliser à une époque convenable une célébration solennelle et en tout point digne, du trois-centième anniversaire de la fondation de Québec par Champlain, ainsi que la dédicace des champs de bataille aux usages publics du Canada prévus par la présente loi; e<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>t la Commission peut employer pour la dite célébration, subordonnément à la sanction et à l’approbation du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Gouverneur en conseil<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, telle partie de</hi> la somme de trois cent mille dollars ci-dessus affectée qu’autorise la Commission subordonnément à cette sanction et à cette approbation.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-036"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The National Battlef<ept i="2">&lt;/i&gt;</ept>ields Commission<ept i="1">&lt;/b&gt;</ept> may,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> subject to the approval of the Governor in Council, purchase, acquire and hold the lands and <hi x="5" type="term">immovable property</hi> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>set forth and described in the schedule to this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des ch<ept i="2">&lt;/i&gt;</ept>amps de bataille nationaux<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, subordonnément à l’agrément</hi> du Gouverneur en conseil,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> acheter, acquérir et posséder les terrains et immeubles<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> énumérés et décrits dans l’annexe de la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-037"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A tract of land on the north side of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Ste. Foye road<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> belonging to the heirs Tourangeau and others, (site of the battle of Ste. Foye, — a part of which surrounds the lot of land upon which is erected a monument to the memory of <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>General Lévis<ept i="2">&lt;/i&gt;</ept> and <hi x="5" type="term">General Murray</hi>, — “Monument des Braves”), <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and which is bounded as follows, viz.:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une étendue de terre<ept i="2">&lt;/i&gt;</ept> du côté nord du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin de Sainte-Foye<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> appartenant aux héri<hi x="5" type="term">tiers</hi> Tourangeau et autres (l’endroit où a eu lieu la bataille de Sainte-Foye), et dont une partie entoure le terrain sur lequel est érigé le monument à la mémoire du général de Lév<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>is et du général Murray — le monument des Braves — et qui est borné comme suit, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-038"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>In <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>front to the south<ept i="2">&lt;/i&gt;</ept> by the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Ste. Foye road<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> in rear to</hi> the north by the brow of the hill ( Cime du Cap ), on one side towards the east by lot number twenty-five, belonging to I. A. Fortin, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and on the other side towards the west by lot number twenty-eight, belonging to the representatives of the late J. W. Dunscomb.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>En front, vers le<ept i="2">&lt;/i&gt;</ept> sud,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> par le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin de Sainte-Foye<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, en arrière, vers</hi> le nord, par la cîme du cap, d’un côté, vers l’est, par le lot numéro vingt-cinq, appartenant à I.-A. Fortin, et de l’autre côté, vers l’ouest, par le l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ot numéro vingt-huit, appartenant aux représentants de feu J. W. Dunscomb.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-039"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Which said tract of<ept i="2">&lt;/i&gt;</ept> land was formerly known and distinguished as lot number twenty-six (26) upon the official <hi x="5" type="term">cadastral plan</hi> for the Banlieue,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> parish of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Notre Dame<ept i="1">&lt;/b&gt;</ept> de Quebec, but which lot has since been subdivided, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and the said tract of land is now known and distinguished by different numbers, all of which are subdivisions of the said original lot number twenty-six, together with and including all or any part of the said original lot number twenty-six, as the same is now laid out and shown on the plan of the subdivision of the said lot number twenty-six as streets or avenues, and including all or any dwelling houses or other buildings of any kind erected on the said tract of land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Laquelle étendue de <ept i="2">&lt;/i&gt;</ept>terre<ept i="1">&lt;/b&gt;</ept> était ci-devant connue et désignée comme lot numéro vingt-six (26) du <hi x="5" type="term">plan cadastral</hi> officiel pour la banlieue,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> paroisse de Notre-Dame-de-Québec, mais le dit lot a depuis été subdivisé et la dite étendue de terre est aujourd’hui connue et désignée sous différents numéros qui tous représentent des subdivisions du dit lot primitif numéro vingt-six, y compris la totalité ou toute partie du dit lot primitif numéro vingt-six, portée au plan de la subd<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ivision du dit lot numéro vingt-six, en rues et avenues, et y compris les maisons et autres constructions de toute espèce érigées sur la dite étendue de terre.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-040"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A strip of land on the south side of the said <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Ste. Foye road<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> to be taken off the front or northerly end of lots numbers sixty-eight (68), seventy-five (75) and seventy-six (76) and seventy-nine (79) on the <hi x="5" type="term">cadastral plan</hi> for the said Banlieue, parish of <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Notre Dame<ept i="2">&lt;/i&gt;</ept> de Quebec, the said strip of land to be of such a depth as, when the same is add<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ed to the present width of the said Ste. Foye road, will make the said road seventy-five feet wide in that locality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une lisière de terrain<ept i="2">&lt;/i&gt;</ept> située du côté sud du dit <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin de Sainte-Foye<ept i="1">&lt;/b&gt;</ept>, à détacher du front ou de l’extrémité nord des lots soixante-huit (68), soixante-quinze (75), soixante-seize (76) et soixante et dix-neuf (79) du <hi x="5" type="term">plan cadastral</hi> de la dite banlieue, paroisse de Notre-Dame-de-Québec;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la dite lisière devant être de la profondeur nécessaire pour porter, dans cette localité, la lar<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>geur du dit chemin de Sainte-Foye à soixante-quinze pieds quand la dite lisière sera ajoutée à la largeur actuelle du dit chemin.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-041"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>strip of land on<ept i="2">&lt;/i&gt;</ept> the east side of the Belvedere road,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> to be taken off the west side of the said lot number sixty-eight (68) above mentioned, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and off the front or west end of lots numbers sixty-nine (69), seventy (70), seventy-one (71), seventy-two (72) and seventy-three (73) on the <hi x="5" type="term">cadastral plan</hi> for the said Banlieue, parish of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Notre Dame<ept i="1">&lt;/b&gt;</ept> de Quebec, the said strip of land to be of such a depth as, when the same is added to the present width of the said Belvedere road, will make the said road seventy-five feet wide from one end of the same to the other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une lisière de terra<ept i="2">&lt;/i&gt;</ept>in<ept i="1">&lt;/b&gt;</ept> située du côté est du chemin du Belvédère, à détacher du côté ouest du lot numéro soixante-huit (68) ci-dessus mentionné, et du front ou extrémité ouest des lots numéros soixante-neuf (69), soixante et dix (70), soixante et onze (71), soixante-douze (72) et soixante-treize (73) du <hi x="5" type="term">plan cadastral</hi> de la dite banlieue, paroisse de Notre-Dame-de-Québec;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la dite lisière devant être de la profondeur nécessaire pour porter, d’un bout à l’autr<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>e de la dite lisière, la largeur du dit chemin du Belvédère à soixante-quinze pieds, quand cette dernière sera ajoutée à la largeur actuelle du dit chemin.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-042"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>strip of land on<ept i="2">&lt;/i&gt;</ept> the north side of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>St. Louis road<ept i="1">&lt;/b&gt;</ept> (starting from the junction of the said Belvedere road and the said St. Louis road and running in a westerly direction) to be taken off the south side of lot number two hundred and twenty-six (226) — the front or south end of lot number two hundred and twenty (220) — and about one-third of the whole frontage or south end of lot number two hundred and eighteen (218) upon the <hi x="5" type="term">cadastral plan</hi> for the Parish of St. Colomba de Sillery. The said strip of land to be of such a depth as,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> when the same is ad<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ded to the present width of the said St. Louis road, will make the said road seventy-five feet wide in that locality, — with any houses or buildings to be found on the said strip of land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une lisière de terrain<ept i="2">&lt;/i&gt;</ept> située du côté nord du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Saint-Louis<ept i="1">&lt;/b&gt;</ept> (à partir du point de jonction du dit chemin du Belvédère et du dit chemin Saint-Louis et allant dans la direction de l’ouest) à détacher du côté sud du lot numéro deux cent vingt-six (226), du front ou extrémité sud du lot numéro deux cent vingt (220) et d’environ un tiers du front ou extrémité sud du lot deux cent dix-huit (218) du <hi x="5" type="term">plan cadastral</hi> de la paroisse de Saint-Colomban-de-Sillery;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la dite lisière devant être de la profondeur nécessaire pour porter, dans cette localité, la largeur du dit chemin Sai<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>nt-Louis à soixante-quinze pieds, quand la dite lisière sera ajoutée à la largeur actuelle du dit chemin, avec les maisons et autres constructions qui se trouvent sur la dite lisière de terrain.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-043"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>strip of land on<ept i="2">&lt;/i&gt;</ept> the west side of “Gilmour’s Hill” (which leads from the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>St. Louis road<ept i="1">&lt;/b&gt;</ept> to “Wolfe’s Cove”) starting from the junction of said “Gilmour’s Hill” with the said St. Louis road and running in a southerly and south easterly direction as far as the brow of the hill ( Cime du Cap ) — the said strip of land to be taken off the easterly side of lots numbers two hundred and fourteen (214) — two hundred and seventeen (217) and two hundred and twenty-eight (228),<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> upon the <hi x="5" type="term">cadastral plan</hi> for the said Parish of St. Colomba de Sillery. The said strip of land to be of such a depth as, when th<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>e same is added to the present width of “Gilmour’s Hill”, will make the said hill seventy-five feet wide in that locality, together with any houses or other buildings erected on the said strip of land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une lisière de terrain<ept i="2">&lt;/i&gt;</ept> située du côté ouest de la côte dite Gilmour’s-Hill (qui conduit du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Saint-Louis<ept i="1">&lt;/b&gt;</ept> à Wolfe’s-Cove), à partir du point de jonction de la dite côte et du dit chemin de Saint-Louis et allant dans la direction du sud et au sud-est jusqu’à la cîme du cap — la dite lisière de terrain à être détachée du côté est des lots numéros deux cent quatorze (214), deux cent dix-sept (217) et deux cent vingt-huit (228), du <hi x="5" type="term">plan cadastral</hi> de la dite paroisse de Saint-Colomban-de-Sillery;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la dite lisière de terrain devant être de la profondeur nécessaire pour porter, dans cette localité, la largeur de la côte<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> dite Gilmour’s-Hill à soixante-quinze pieds, quand la dite lisière sera ajoutée à la largeur actuelle de la dite côte; avec les maisons et autres constructions qui se trouvent sur la dite lisière de terrain.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-044"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>strip of land seventy-five<ept i="2">&lt;/i&gt;</ept> feet in width by the whole length of the “Marchmont Property”,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> now the “Merici Convent” on the west side of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Plains of Abraham<ept i="1">&lt;/b&gt;</ept> — which was formerly distinguished as lot number two hundred and twenty-seven (227) upon the <hi x="5" type="term">cadastral plan</hi> for the said Parish of St. Colomba de Sillery but which is now subdivided into numerous lots, — the said strip of land to be taken as close as may be found to be practicable to the brow of the cliff ( Cime du Cap <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>) — and also the whole of the irregular tract of land which will lie between the said strip of land when laid out and the said brow of the hill or Cime du Cap .</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une lisière de terra<ept i="2">&lt;/i&gt;</ept>in<ept i="1">&lt;/b&gt;</ept> d’une largeur de soixante-quinze pieds sur toute la longeur de la propriété de Marchmont, aujourd’hui le Couvent de Mérici, du côté ouest des plaines d’Abraham, ci-devant connue et désignée comme lot numéro deux cent vingt-sept (227) du <hi x="5" type="term">plan cadastral</hi> de la dite paroisse de Saint-Colomban-de-Sillery, lequel lot est aujourd’hui subdivisé en de nombreux lots, la dite lisière de terrain à prendre aussi près que possible de la cîme du cap;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et, auss<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>i, la totalité de l’étendue irrégulière de terrain qui sera située entre la dite lisière de terrain, quand le tracé en sera effectué, et la dite cîme du cap.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-045"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A tract of land comprising several lots of land with houses and other buildings erected thereon in the neighbourhood of “Wolfe’s Monument”,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> to the east of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Plains of Abraham<ept i="1">&lt;/b&gt;</ept>, which is bounded as follows: — In front towards the north by St. Louis street or <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La Grande Allée<ept i="2">&lt;/i&gt;</ept>, in rear towards the south by Monument street (on which street Wolfe’s Monument is erected), on one side towards the east by lot number one hundred and fifty-three and on the other side towards the west by the Plains of Abraham, with the streets intersecting or adjoining same, namely: Wolfe street and Monument street, — the said tract of land comprising the lots numbers one hundred and fifty-two, one hundred and fifty-four, one hundred and fifty-five, one hundred and fifty-six, one hundred and sixty-one, one hundred and sixty-one A, one hundred and sixty-one B, one hundred and sixty-two, one hundred and sixty-three, one hundred and sixty-three A, one hundred and sixty-three B, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and one hundred and sixty-four (152, 154, 155, 156, 161, 161A, 161B, 162, 163, 163A, 163B, and 164), on the <hi x="5" type="term">cadastral plan</hi> for the Banlieue Parish of Notre Dame de Quebec.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une étendue de terra<ept i="2">&lt;/i&gt;</ept>in<ept i="1">&lt;/b&gt;</ept> comprenant plusieurs lots avec maisons et autres constructions y érigées, dans le voisinage du monument de Wolfe, à l’est des plaines d’Abraham, et bornée comme suit : en front, vers le nord, par la rue Saint-Louis ou la Grande-Allée, en arrière, vers le sud, par la rue du Monument (sur laquelle est érigé le monument de Wolfe), d’un côté, vers l’est, par le lot numéro cent cinquante-trois, et de l’autre côté, vers l’ouest, par les plaines d’Abraham, avec les rues coupant ou longeant le dit terrain, savoir : la rue Wolfe et la rue du Monument;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la dite étendue de terre comprenant les lots numéros cent cinquante-deux, cent cinquante-quatre, cent cinquante-cinq, cent cinquante-six, cent soixante et un, cent soixante et un A, cent soixant<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>e et un B, cent soixante-deux, cent soixante-trois, cent soixante-trois A, cent soixante-trois B et cent soixante-quatre (152, 154, 155, 156, 161, 161A, 161B, 162, 163, 163A, 163B et 164), du <hi x="5" type="term">plan cadastral</hi> de la banlieue, paroisse de Notre-Dame-de-Québec.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-046"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A piece of land forming the southerly part of lot number four thousand four hundred and forty-one (4441) on the <hi x="5" type="term">cadastral plan</hi> for <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Montcalm Ward<ept i="2">&lt;/i&gt;</ept> of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> containing from five thousand to eight thousand feet in superficies, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and a piece of land forming the southerly and south westerly part of lot number four thousand four hundred and forty-two (4442) on the said cadastral plan, containing from twelve thousand to fifteen thousand feet in superficies (said properties belonging to The Ladies Protestant Home of Quebec and the Heirs Lampson respectively).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Un morceau de terre étant la partie sud du lot numéro quatre mille quatre cent quarante et un (4441) du <hi x="5" type="term">plan cadastral</hi> du quartier Montcalm de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> contenant de cinq mille à huit mille pieds en superficie, et un morceau de terre étant la partie sud et sud-ouest du lot numéro quatre mille quatre cent quarante-deux (4442 du dit plan cadastral, contenant de douze mille à quinze mille pieds en su<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>perficie (les dites propriétés appartenant respectivement aux dames dites <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The Ladies Protestant Home<ept i="2">&lt;/i&gt;</ept> of Quebec et aux héritiers Lampson).</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-047"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The lot of land originally bearing the number four thousand four hundred and forty (4440) on the <hi x="5" type="term">cadastral plan</hi> for <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Montcalm Ward<ept i="2">&lt;/i&gt;</ept> of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>which is now subdivided into numerous lots, belonging to The Seminary of Quebec and commonly called “The Seminary Farm”, with the house and other buildings thereon erected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le lot de terre<ept i="2">&lt;/i&gt;</ept> portant originairement le numéro quatre mille quatre cent quarante (4440) du <hi x="5" type="term">plan cadastral</hi> du quartier Montcalm de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> aujourd’hui subdivisé en de nombreux lots, appartenant au Séminaire de Québec et communémen<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>t appelé la Ferme du Séminaire, avec la maison et autres constructions y érigées.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-048"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A small piece of land forming the south-east corner of the property of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The C<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>hurch<ept i="1">&lt;/b&gt;</ept> of <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>England Female Orphan Asylum<ept i="2">&lt;/i&gt;</ept> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>(which adjoins the said <hi x="5" type="term">Seminary Farm</hi>).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Une petite étendue de</hi> terre formant l’angle sud-est de la propriété <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Church<ept i="1">&lt;/b&gt;</ept> of <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt><ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>England Female Orphan Asylum<ept i="2">&lt;/i&gt;</ept> (laquelle es<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>t contiguë à la dite ferme du Séminaire).</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-049"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>QUEBEC, July 15th, 1908.<ept i="1">&lt;/b&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Québec, 15 juillet 1908.<ept i="1">&lt;/b&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-050"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The National Battlef<ept i="2">&lt;/i&gt;</ept>ields Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">may, subject to the</hi> approval of the Governor in Council,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> purchase, acquire and hold the whole or part of the lands and<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> immovable properties hereinafter described, namely:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des ch<ept i="2">&lt;/i&gt;</ept>amps de bataille nationaux<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, subordonnément à l’approbation</hi> du Gouverneur en conseil,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> acheter, acquérir et posséder la totalité ou partie<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> des terrains et immeubles ci-après désignés, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-051"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The tract of land on the south side of the street called “La <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Grande Allée<ept i="2">&lt;/i&gt;</ept>”,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> in <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept>, granted to “The <hi x="5" type="term">Quebec Skating Club</hi>” in virtue of chapter 14 of the statutes of 1891, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and fully described therein, with all the buildings erected thereon:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">le lopin ou lot</hi> de terre situé du côté sud de la rue appelée « la <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Grande Allée<ept i="2">&lt;/i&gt;</ept> », en <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept>, concédé au « Club des patineurs de Québec » sous l’autorité du chapitre 14 des lois de 1891, et formell<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ement désigné en la dite loi, avec toutes les constructions y érigées;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-052"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>parcels of land bearing<ept i="2">&lt;/i&gt;</ept> numbers 96,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> 97, 98, 99 and 66 of the subdivision of cadastral lot number 4437 of Montcalm ward of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, including all or</hi> any dwelling houses, the tower commonly known as “Martello Tower number two”, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>or other buildings of any kind erected on these parcels of land:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>les morceaux ou lopins<ept i="2">&lt;/i&gt;</ept> de terre portant les numéros 96, 97, 98, 99 et 66 de la subdivision du lot cadastral numéro 4437 du quartier Montcalm de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, y compris la</hi> totalité ou une partie quelconque des habitations, la tour communément connue sous l’appellation « tour Martello »,<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> numéro deux, ou les autres constructions d’une nature quelconque érigées sur ces lopins de terre;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-053"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The portions of the lots numbers four thousand four hundred and forty-one (4441) and four thousand four hundred and forty-two (4442) on the <hi x="5" type="term">cadastral plan</hi> for Montcalm ward of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept>, comprised between the two pieces of land respectively forming part of these lots belonging to <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The Ladies Protestant Home<ept i="2">&lt;/i&gt;</ept> of Quebec and the Heirs Lampson respectively and mentioned in article 8 of the Schedule to chapter 58 of the statutes of 1908, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and a parallel to the northwest side of Tower street drawn across the said lots four thousand four hundred and forty-one and four thousand four hundred and forty-two, from the easternmost corner of lot number four thousand four hundred and forty-three of the cadastre of the said Montcalm ward of the city of Quebec;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> and the buildings which may be erected thereon:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>les parties des lots<ept i="2">&lt;/i&gt;</ept> numéros quatre mille quatre cent quarante et un (4441) et quatre mille quatre cent quarante-deux (4442) du <hi x="5" type="term">plan cadastral</hi> du quartier Montcalm de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept>, comprises entre les deux morceaux de terre formant respectivement partie de ces lots appartenant au Ladies’ Protestant Home of Quebec et aux héritiers Lampson, respectivement, et désignées au paragraphe 8 de l’annexe du chapitre 58 des lois de 1908, et une ligne parallèle au côté nord-ouest de la rue de la Tour (Tower), tirée à travers les dits lots quatre mille quatre cent quarante et un et quatre mille quatre cent quarante<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>-deux, à partir de l’angle extrême est du lot numéro quatre mille quatre cent quarante-trois du cadastre du dit quartier Montcalm de la cité de Québec;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et les constructions qui peuvent y avoir été érigées;</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-054"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>All the lots or parcels of land, portions of lots or parcels of land and projected streets — with any building which may be erected thereon — hereinafter mentioned in this paragraph and lying in <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept>, outside or surrounding a certain tract of land upon which is erected the Quebec jail and its dependencies and which tract of land, also <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>in the city of Quebec<ept i="2">&lt;/i&gt;</ept>, reserved by the Government of the province of Quebec for the purposes of the Quebec jail, is bounded towards the northwest by a line — southeast of Monument Street — in the northeasterly prolongation of the northwest boundary of lots numbers one hundred and sixty — A (160 — A) and one hundred and sixty — B (160 — B) of the cadastre of the Banlieue, parish of Notre-Dame-de-Quebec, towards the southeast by a line parallel to the lower or rear wall of the jail yard and one hundred and fifty feet distant — to the southeast — from the end towers of this wall, towards the northeast by the northeast side of the passage or street along the northeast wall of said jail yard and the fence in prolongation of same, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and towards the southwest by a line parallel to the north-easternmost boundary of the Plains of Abraham and at a distance of one hundred and ten feet to the northeast therefrom, and covers a superficial area of three hundred and forty-two thousand nine hundred and fifty square feet more or less, English measure: — the northeast part of lot number four thousand four hundred and forty-seven (4447) bounded towards the southwest by the said tract of land reserved for the purposes of the Quebec jail, lot number four thousand four hundred and forty-eight (4448), those portions of lots numbers four thousand four hundred and forty-nine (4449) and four thousand four hundred and fifty (4450) which lie outside of the said tract of land reserved for the purposes of the Quebec jail;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> lots numbers four thousand four hundred and fifty-one (4451), four thousand four hundred and fifty-two (4452), four thousand four hundred and fifty-three (4453), four thousand four hundred and fifty-four (4454), four thousand four hundred and fifty-five (4455), four thousand four hundred and fifty-six (4456), four thousand four hundred and fifty-seven (4457), four thousand four hundred and fifty-eight (4458), four thousand four hundred and fifty-nine (4459), four thousand four hundred and sixty (4460), four thousand four hundred and sixty-one (4461), four thousand four hundred and sixty-two (4462), four thousand four hundred and sixty-three (4463), four thousand four hundred and sixty-four (4464), four thousand four hundred and sixty-five (4465), four thousand four hundred and sixty-six (4466), four thousand four hundred and sixty-seven (4467), four thousand four hundred and sixty-eight (4468), four thousand four hundred and sixty-nine (4469) and four thousand four hundred and seventy (4470) of the cadastre of Montcalm ward of the city of Quebec — and also all the intervening projected streets shown on the <hi x="5" type="term">cadastral plan</hi> of the said Montcalm ward of the city of Quebec, mentioned in the descriptions of these lots contained in the book of reference of said cadastre and lying outside of the aforesaid tract of land reserved by the Government of the province of Quebec for the purposes of the Quebec jail: — also the portion of lot number one hundred and sixty (160) lying partly to the northwest and partly to the southwest of the aforesaid tract of land reserved for the purposes of the Quebec jail, the portion of lot number one hundred and fifty-nine (159) lying to the southwest of the same tract of land, the portion of lot number one hundred and sixty-six (166) lying partly to the southwest and partly to the southeast of the same tract of land, said lots numbers one hundred and sixty — A and one hundred and sixty — B (160 — A and 160 — B) and the portions of the two projected streets respectively to the northwest (Tower street) and to the southeast (street unnamed) of the aforesaid portion of lot number one hundred and fifty-nine, all the cadastre of the Banlieue, parish of Notre-Dame-de-Quebec:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>tous les lots ou lopins de terre, parties de lots ou lopins de terre et rues projetées, — avec les constructions quelles qu’elles soient qui peuvent y avoir été érigées — ci-après mentionnés au présent paragraphe et situés en <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept>, à l’extérieur ou dans l’entourage d’un certain morceau de terre sur lequel est construite la prison de Québec et ses dépendances et lequel morceau de terre, aussi <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>en la cité de Québec<ept i="2">&lt;/i&gt;</ept>, réservé par le gouvernement de la province de Québec, pour les fins de la prison de Québec, est borné vers le nord-ouest par une ligne — au sud-est de la rue du Monument — dans le prolongement nord-est de la limite nord-ouest des lots numéros cent soixante-A (160-A) et cent soixante-B (160-B) du cadastre de la Banlieue, paroisse de Notre-Dame-de-Québec, vers le sud-est par une ligne parallèle au mur inférieur ou mur d’arrière de la cour de la prison et à cent cinquante pieds de distance — vers le sud-est — des tours de l’extrémité de ce mur, vers le nord-est par le côté nord-est du passage ou de la rue qui longe le mur nord-est de la dite cour de prison, et la clôture qui en fait le prolongement, et vers le sud-ouest par une ligne parallèle à la borne extrême nord-est des plaines d’Abraham et à une distance de cent dix pieds au nord-est des dites plaines, et couvre une superficie totale de trois cent quarante-deux mille neuf cent cinquante pieds carrés, plus ou moins, mesure anglaise;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la partie nord-est du lot numéro quatre mille quatre cent quarante-sept (4447) bornée vers le sud-ouest par le dit lopin de terre réservé pour les fins de la prison de Québec, le lot numéro quatre mille quatre cent quarante-huit (4448), les parties des lots numéros quatre mille quatre cent quarante-neuf (4449) et quatre mille quatre cent cinquante (4450) qui sont situées en dehors du dit lopin de terre réservé pour les fins de la prison de Québec; les lots numéros quatre mille quatre cent cinquante et un (4451), quatre mille quatre cent cinquante-deux (4452), quatre mille quatre cent cinquante-trois (4453), quatre mille quatre cent cinquante-quatre (4454), quatre mille quatre cent cinquante-cinq (4455), quatre mille quatre cent cinquante-six (4456), quatre mille quatre cent cinquante-sept (4457), quatre mille quatre cent cinquante-huit (4458), quatre mille quatre cent cinquante-neuf (4459), quatre mille quatre cent soixante (4460), quatre mille quatre cent soixante-un (4461), quatre mille quatre cent soixante-deux (4462), quatre mille quatre cent soixante-trois (4463), quatre mille quatre cent soixante-quatre (4464), quatre mille quatre cent soixante-cinq (4465), quatre mille quatre cent soixante-six (4466), quatre mille quatre cent soixante-sept (4467), quatre mille quatre cent soixante-huit (4468), quatre mille quatre cent soixante-neuf (4469) et quatre mille quatre cent soixante-dix (4470) du cadastre du quartier Montcalm de la cité de Québec, et aussi toutes les rues projetées qui les séparent et indiquées sur le <hi x="5" type="term">plan cadastral</hi> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>du dit quartier Montcalm de la cité de Québec, mentionnés dans les descriptions de ces lots contenues dans le livre de renvoi du dit cadastre et situés en dehors du susdit lopin de terre réservé par le gouvernement de la province de Québec pour les fins de la prison de Québec; aussi la partie du lot numéro cent soixante (160) qui est située partie au nord-ouest et partie au sud-ouest du susdit lopin de terre réservé pour les fins de la prison de Québec, la partie du lot numéro cent cinquante-neuf qui est située au sud-ouest du même lopin de terre, la partie du lot numéro cent soixante-six (166) qui est située partie au sud-ouest et partie au sud-est du dit lopin de terre, les dits lots numéros cent soixante-A et cent soixante-B (160-A et 160-B) et les parties des deux rues respectivement projetées au nord-ouest (rue de la Tour) et au sud-est (rue non nommée) de la susdite partie du lot numéro cent cinquante-neuf, le tout du cadastre de la Banlieue, paroisse de Notre-Dame-de-Québec;</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-055"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>lots or parcels of<ept i="2">&lt;/i&gt;</ept> land situated in the vicinity of “Martello Tower,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> number four”, in <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the city of Quebec<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, and bearing respectively</hi> numbers one hundred and eighty-eight (188), one hundred and eighty-nine (189) and one hundred and ninety-one (191) of the subdivisions of lot number three thousan<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>d seven hundred and fifty-five (3755) of the cadastre of St. John’s ward of the said city of Quebec.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>les lots ou morceaux<ept i="2">&lt;/i&gt;</ept> de terre situés dans le voisinage de la « tour Martello,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> numéro quatre », en <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la cité de Québec<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">et portant respectivement les</hi> numéros cent quatre-vingt-huit (188), cent quatre-vingt-neuf (189) et cent quatre-vingt-onze (191) des subdivisions du lot numéro trois mil<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>le sept cent cinquante-cinq (3755) du cadastre du quartier Saint-Jean de la dite cité de Québec.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-056"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The National Battlefields Commission<ept i="1">&lt;/b&gt;</ept> may,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> subject to the approval of the Governor in Council, pay or redeem all rents, ground rents or other dues affecting all or any property or properties heretofore or hereafter purchased, acquired or held by it or gratuitous<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ly ceded and transferred to it for the purposes of the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>National Battlefields<ept i="2">&lt;/i&gt;</ept> <hi x="5" type="term">at Quebec.</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des ch<ept i="2">&lt;/i&gt;</ept>amps de bataille nationaux<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, subordonnément à l’approbation</hi> du Gouverneur en conseil,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> acquitter ou racheter toutes les rentes, rentes immobilières ou autres redevances se rattachant à tous les immeubles, ou à l’un d’eux, ci-devant ou dorénavant achetés, acquis ou possédés par elle ou qui pou<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>rront lui être gratuitement cédés ou transférés pour les besoins du parc des champs de bataille de Québec.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-057"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The National Battlefields Commission<ept i="1">&lt;/b&gt;</ept> may, subject to the approval of the Governor in Council, advance, out of the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>National Battlefields<ept i="2">&lt;/i&gt;</ept> fund, a sum of money not to exceed fifteen thousand dollars to the municipality of the town of Montcalm or its successors, in order to enable the said municipality to purchase certain lands necessary for the <hi x="5" type="term">Quebec Battlefields Park</hi>, that is to say for the opening of an avenue between St. Louis Road and Ste. Foye Road, in line with the “Monument des Braves”, in the town of Montcalm, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>which lands are to be, after their purchase by the said municipality, gratuitously ceded and transferred to the said Commission;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> the sum so advanced by the said Commission to be repaid to the latter by the said municipality or its successors in annual consecutive instalments bearing interest at the rate of three per cent per annum, the term over which the instalments may be spread not to exceed thirty years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des ch<ept i="2">&lt;/i&gt;</ept>amps de bataille nationaux<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, subordonnément à l’approbation</hi> du Gouverneur en conseil, avancer, à même le fonds des champs de bataille nationaux, une somme d’au plus quinze mille dollars à la corporation de la ville de Montcalm ou à ses successeurs, pour permettre à la dite corporation d’acheter certains terrains nécessaires pour le parc des champs de bataille de Québec, c’est-à-dire pour l’ouverture d’une avenue entre le chemin Saint-Louis et le chemin Sainte-Foye, en ligne avec le « monument des Braves », dans la ville de Montcalm, lesquels terrains devront, après leur achat par la dite corporation, être gratuitement cédés et transférés à la dite Commission;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> la somme ainsi avancée par la dite Commission sera remboursée<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> à cette dernière par la dite corporation ou par ses successeurs par versements annuels consécutifs portant intérêt au taux de trois pour cent par année, le terme pendant lequel les versements pourront être prolongés ne devant pas dépasser trente ans.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-058"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Commission may make by-laws for:<ept i="1">&lt;/b&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La Commission<ept i="1">&lt;/b&gt;</ept> peut é<ept i="2">&lt;/i&gt;</ept><hi x="5" type="term">tabl<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ir des règle<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ments pour</hi> :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-059"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <hi x="5" type="term">direction, conduct and management</hi> of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> and its prope<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>rty, <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>real and personal<ept i="2">&lt;/i&gt;</ept>;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">la direction, la conduite</hi> et la gestion de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept>, et de ses biens <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt><it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>immobiliers et mobiliers<ept i="2">&lt;/i&gt;</ept>;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-060"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>time and place for<ept i="2">&lt;/i&gt;</ept> holding meetings of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, the calling of</hi> meetings, the quorum thereat, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and the procedure at such meetings;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>la date et l’endroit<ept i="2">&lt;/i&gt;</ept> de réunion des assemblées de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, la convocation des</hi> assemblées, leur quorum, et l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>a procédure à suivre à ces assemblées;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-061"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>appointment, control, duties and<ept i="2">&lt;/i&gt;</ept> removal of all officers,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> guardians, agents, technical and professional advisers, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and employees of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, and their remuneration;</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>la nomination, le contrôle,<ept i="2">&lt;/i&gt;</ept> les devoirs et le renvoi de tous officiers,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> gardiens, agents, conseillers techniques et professionnels, et em<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ployés de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">, et leur rémunération;</hi></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-062"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>maintenance, preservation, and protection<ept i="2">&lt;/i&gt;</ept> of the lands, works and other property belonging to <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept> or <hi x="5" type="term">under its jurisdiction, contr<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ol</hi> or care, and the access of the public thereto;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>l’entretien, la conservation et<ept i="2">&lt;/i&gt;</ept> la protection de tous terrains, ouvrages et autres biens appartenant à <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">ou sujets à sa</hi> juridiction ou son contrôle ou ses soins,<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> et l’accès du public auxdits terrains, ouvrages et biens;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-063"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>prevention of injury to<ept i="2">&lt;/i&gt;</ept> or encroachm<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ents upon the proper<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ty of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">.</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>l’empêchement de dommages ou<ept i="2">&lt;/i&gt;</ept> l’empiét<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ement sur les bien<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>s de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>la Commission<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">.</hi></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-064"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Every <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>person who contravenes a<ept i="1">&lt;/b&gt;</ept> by-law made under this section is liable <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>on summary conviction<ept i="2">&lt;/i&gt;</ept> <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>to a <hi x="5" type="term">fine of not more</hi> than two thousand dollars or to imprisonment for six months, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>or to both.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Quiconque contrevient à quelque<ept i="1">&lt;/b&gt;</ept> règlement édicté en vertu du présent article est passible,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> sur déclaration de culpabilité <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>par procédure sommaire<ept i="2">&lt;/i&gt;</ept><hi x="5" type="term">, d’une amende maximale</hi> de deux mille dollars et d’<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>un emprisonnement maximal de six mois, ou de l’une de ces peines.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-065"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No by-law shall have force or effect until confirmed by <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Governor in Council<ept i="1">&lt;/b&gt;</ept> and published in <hi x="5" type="term">The Canada Gazette</hi> ,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and upon such confirmation and publication any by-law made <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>in accordance with this Act<ept i="2">&lt;/i&gt;</ept> shall have the same force and effect as if enacted in this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Aucun règlement n’aura force</hi> et effet à moins qu’il ne soit confirmé par <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Gouverneur en conseil<ept i="1">&lt;/b&gt;</ept> et publié dans la Gazette du Canada ,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> et advenant telle confirmation et publication tout règlement édicté <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>en conformité de la présente loi<ept i="2">&lt;/i&gt;</ept> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>aura la même force et le même effet que s’il était décrété par la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-066"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The National Battlef<ept i="2">&lt;/i&gt;</ept>ields Commission<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">may, subject to the</hi> approval of the Governor in Council,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> purchase, acquire and hold the whole or part of the lands and<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> immovable properties hereinafter described, namely:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des ch<ept i="2">&lt;/i&gt;</ept>amps de bataille nationaux<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, subordonnément à l’approbation</hi> du Gouverneur en conseil,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> acheter, acquérir et posséder la totalité ou partie<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> des terrains et immeubles ci-après désignés, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-067"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>whole of “Gilmour’s Hill”<ept i="2">&lt;/i&gt;</ept> (which lea<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ds from <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>St. Louis ro<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ad<ept i="1">&lt;/b&gt;</ept> to <hi x="5" type="term">Wolfe’s Cove).</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Toute la « côte<ept i="2">&lt;/i&gt;</ept> Gilmour » (qui conduit d<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>u <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Saint-Louis<ept i="1">&lt;/b&gt;</ept><it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> <hi x="5" type="term">à l’anse du Foulon).</hi></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-068"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>A <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>parcel of land cov<ept i="2">&lt;/i&gt;</ept>ering<ept i="1">&lt;/b&gt;</ept> about 10,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>000 square feet to be taken from lot number two hundred and twenty-eight (228) upon the <hi x="5" type="term">cadastral plan</hi> for the Parish of St-Colomban-de-<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>Sillery, in the immediate vicinity of said Gilmour’s Hill.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Un lopin de terre<ept i="2">&lt;/i&gt;</ept> couvrant environ 10,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>000 pieds carrés à prendre sur le lot numéro deux cent vingt-huit (228) du <hi x="5" type="term">plan cadastral</hi> de la paroisse de Saint-Colomban-de-Sil<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>lery, dans le voisinage immédiat de ladite <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>côte Gilmour<ept i="1">&lt;/b&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-069"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>All the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>portions of <ept i="2">&lt;/i&gt;</ept>the “Marchmont<ept i="1">&lt;/b&gt;</ept> Property”,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> now the “Merici Convent”, distinguished as lot number two hundred and twenty-seven (227) upon the <hi x="5" type="term">cadastral plan</hi> of the said Parish of St-Colomban-de-Sillery, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>which are below the brow or the cliff (cime du cap).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Toutes les parties d<ept i="2">&lt;/i&gt;</ept>e<ept i="1">&lt;/b&gt;</ept> la « propriété Marchmont »,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> maintenant le « couvent Mérici », marquée lot numéro deux cent vingt-sept (227) sur le <hi x="5" type="term">plan cadastral</hi> de ladite paroisse de Saint-Colo<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>mban-de-Sillery, qui se trouvent au-dessous de la cîme du cap.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-070"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>whole or portion<ept i="2">&lt;/i&gt;</ept>s of<ept i="1">&lt;/b&gt;</ept> lots bearing numbers two hundred and twenty-nine (229),<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> two hundred and thirty (230) and two hundred and thirty-one (231) upon the <hi x="5" type="term">cadast<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ral plan</hi> of the said Parish of St-Colomban-de-Sillery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La totalité ou parti<ept i="2">&lt;/i&gt;</ept>e<ept i="1">&lt;/b&gt;</ept> des lots portant les numéros deux cent vingt-neuf (229),<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> deux cent trente (230) et deux cent trente et un (231) sur le <hi x="5" type="term">plan cadastr<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>al</hi> de ladite paroisse de Saint-Colomban-de-Sillery.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-071"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>All the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>buildings er<ept i="2">&lt;/i&gt;</ept>ected on the<ept i="1">&lt;/b&gt;</ept> lands or<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <hi x="5" type="term">immovable property</hi> m<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>entioned in this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Tous les bâtiments é<ept i="2">&lt;/i&gt;</ept>rigés<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">sur les terrains o<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>u</hi> immeubles mentionnés<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> dans la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-072"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The National Battlef<ept i="2">&lt;/i&gt;</ept>ields Commission<ept i="1">&lt;/b&gt;</ept> may,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> subject to the approval of the Governor in Council, purchase, acquire, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and hold the whole or part of the lands and <hi x="5" type="term">immovable property</hi> hereinafter described, namely:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commission des ch<ept i="2">&lt;/i&gt;</ept>amps de bataille nationaux<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, sous réserve de</hi> l’approbation du Gouverneur en conseil,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> acheter, acquérir et détenir la totalité ou une partie des <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>terrains et biens immobiliers ci-après décrits, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-073"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <hi x="5" type="term">tract of land being</hi> part of lot No. 232 of the official cadastre of the parish of St. Colomb de Sillery,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> County of Quebec, situate at the foot of <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Gilmour Hill<ept i="2">&lt;/i&gt;</ept> and located between the new <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Champlain road<ept i="1">&lt;/b&gt;</ept> and the old Champlain road, containing <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>in area 47,750 square feet, more or less, more particularly described as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Une parcelle de terrain</hi> formant partie du lot n o 232 du cadastre officiel de la paroisse de Saint-Colomb de Sillery,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> comté de Québec, située au pied de la <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Côte Gilmour<ept i="2">&lt;/i&gt;</ept> et sise entre le nouveau et l’ancien <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Champlain<ept i="1">&lt;/b&gt;</ept>, d’une superficie approx<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>imative de 47,750 pieds carrés, et plus particulièrement décrite ainsi qu’il suit :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-074"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Commencing at the point of intersection of the Southerly side of the old <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Champlain road<ept i="1">&lt;/b&gt;</ept> with the line parallel to and thirty-five feet (35’) distant, <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>North Westerly<ept i="2">&lt;/i&gt;</ept>, from the centre line of the new Champlain road, the said point of intersection being hereinafter referred to as point A;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> thence in a <hi x="5" type="term">South Westerly</hi> direction along a straight line, distant twenty feet (20’) and parallel to the edge of the pavement of the new Champlain road, a distance of three hundred and forty feet (340’) more or less, to a point hereinafter referred to as point B; thence in a South Easterly direction along a straight line at right angle with the preceding line a distance of seventeen feet (17’), more or less; thence in a South Westerly direction along a straight line, in the same direction as the line joining points A and B hereinbefore mentioned, a distance of one hundred and forty feet, (140’) more or less; thence in a South Westerly direction along a straight line making a deflection angle of 20° 45’ to the left with the preceding line a distance of ninety feet (90’), more or less; thence in a Southerly direction along a straight l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ine parallel to and distant twenty feet (20’) Westerly from the Western edge of pavement of the new Champlain road, a distance of two hundred and twenty feet (220’), more or less, to the Eastern side of the old Champlain road; thence in a general North Easterly direction along the said Eastern side and Southern side of the said old Champlain road to the point of commencement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Commençant au point d’intersection<ept i="2">&lt;/i&gt;</ept> du côté sud de l’ancien <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Champlain<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">et de la ligne</hi> parallèle à la ligne centrale du nouveau chemin Champlain et distante de trente-cinq (35’) pieds dans une direction nord-ouest, ledit point d’intersection étant ci-après appelé point A;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> de là, dans une direction sud-ouest le long d’une ligne droite, distante de vingt (20’) pieds et parallèle à la bordure de la chaussée du nouveau chemin Champlain, sur une distance approximative de trois cent quarante (340’) pieds, jusqu’à un point ci-après appelé point B; de là, dans une direction sud-est, le long d’une ligne droite formant un angle droit avec la ligne précédente sur une distance approximative de dix-sept (17’) pieds; de là, dans une direction sud-ouest le long d’une ligne droite, dans la même direction que celle de la ligne réunissant les points A et B ci-dessus mentionnés, sur une distance approximative de cent quarante (140’) pieds; de là, dans une direction sud-ouest le long d’une ligne droite formant avec la ligne précédente un angle d’écartement de 20° 45’ vers la gauche, sur une distance approximative de quatre-vingt-dix (90’) pieds; de là, dans une direction sud le<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> long d’une ligne droite parallèle à la bordure ouest de la chaussée du nouveau chemin Champlain et distante de vingt (20’) pieds à l’ouest, sur une distance approximative de deux cent vingt (220’) pieds, jusqu’au côté est de l’ancien chemin Champlain; de là, dans une direction généralement nord-est le long dudit côté est et du côté sud dudit ancien chemin Champlain jusqu’au point de départ.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-075"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>tract of land being<ept i="2">&lt;/i&gt;</ept> part of the old <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Champlain road<ept i="1">&lt;/b&gt;</ept> in the <hi x="5" type="term">parish of St. Colomb</hi> de Sillery,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> County of Quebec, containing in area 14,100 square feet, more or less, <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>and more particularly described as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Une parcelle de terrain<ept i="2">&lt;/i&gt;</ept> formant partie de l’ancien <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Champlain<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">dans la paroisse de</hi> St-Colomb de Sillery,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> comté de Québec, d’une superficie approximative de 14,100 pi<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>eds carrés, et plus particulièrement décrite comme suit :</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-076"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">N-3.4 National Battlefields at Quebec Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Commencing at the intersection of the old <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Champlain road<ept i="1">&lt;/b&gt;</ept> with the new Champlain road and running in a general <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>North Easterly<ept i="2">&lt;/i&gt;</ept> direction to its intersection with the new Champlain road,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> bounded towards the North by lot No. 230, towards its <hi x="5" type="term">North Eastern</hi> extremity by the new Champlain road, towards the South, the South East and the East by lot No. 232, towards its South Western extremity by the new Champlain road and to<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>wards the West by lot No. 231 and towards the North West by lot No. 231, the creek St. Denis, lot No. 229, the Gilmour Hill and lot No. 230.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Commençant à l’intersection de<ept i="2">&lt;/i&gt;</ept> l’ancien <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>chemin Champlain<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">et du nouveau chemin</hi> Champlain et suivant une direction généralement nord-est jusqu’à son point d’intersection avec le nouveau chemin Champlain,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> bornée au nord par le lot n o 230, à son extrémité nord-est par le nouveau chemin Champlain, au sud, au sud-est et à l’est par le lot n o 232, à son extrémité sud-ouest par le nouveau chemin Champlain, à <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>l’ouest par le lot n o 231 et au nord-ouest par le lot n o 231, le ruisseau St-Denis, le lot n o 229, la côte Gilmour et le lot n o 230.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-077"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>purpose of this <ept i="2">&lt;/i&gt;</ept>Act<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">is to enhance the</hi> accountability and transparency of federal institutions in order <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>to promote an open and democratic society and to enab<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>le public debate on the conduct of those institutions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La présente loi a<ept i="1">&lt;/b&gt;</ept> po<ept i="2">&lt;/i&gt;</ept><hi x="5" type="term">ur objet d&apos;accroître la</hi> responsabilité et la transparence des institutions de l&apos;État afin de <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>favoriser une société ouverte et démocratique et de perme<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ttre le débat public sur la conduite de ces institutions.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-078"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>This <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Act is also int<ept i="2">&lt;/i&gt;</ept>ended<ept i="1">&lt;/b&gt;</ept> to <hi x="5" type="term">complement and not replace</hi> existing procedures for access to government information and is not<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> intended to limit in any way access to the type of government<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> information that is normally available to the general public.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>En outre, la présent<ept i="2">&lt;/i&gt;</ept>e<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">loi vise à compléter</hi> les modalités d&apos;accès aux documents de l&apos;administration fédérale;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> elle ne vise pas à restreindre l&apos;accès aux renseignements que les institutions <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>fédérales mettent normalement à la disposition du grand public.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-079"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Every <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>person who is a<ept i="2">&lt;/i&gt;</ept> Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Immigration and Refugee Protection Act<ept i="1">&lt;/b&gt;</ept> has a right to and shall,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> on request, be given a<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ccess to any record under the control of a <hi x="5" type="term">government institution</hi>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Tout citoyen canadien et<ept i="2">&lt;/i&gt;</ept> tout résident permanent au sens du paragraphe 2(1) de la <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Loi sur l&apos;immigration et la protection des <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>réfugiés<ept i="1">&lt;/b&gt;</ept> ont droit à la communication des documents relevant d<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>&apos;une <hi x="5" type="term">institution fédérale</hi> et peuvent y avoir accès sur demande.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-080"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>head of<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>a government institution<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">shall, subject to the</hi> regulations,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> cause to be published, on a periodic basis and in a form appropriate for the purpose, a description of<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> the organization and responsibilities of the institution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le responsable<ept i="2">&lt;/i&gt;</ept> d&apos;<bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>une institution fédérale<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">est tenu, sous réserve</hi> des règlements,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> de faire publier périodiquement, sous une forme appropriée, une description de l<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>&apos;organisation et des responsabilités de l&apos;institution.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-081"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <hi x="5" type="term">request for access to</hi> a record under this Part shall be made <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>in w<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>riting<ept i="2">&lt;/i&gt;</ept> to <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the government instituti<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>on<ept i="1">&lt;/b&gt;</ept> that has control of the record.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">La demande de communication</hi> d&apos;un document se fait <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>par écri<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>t<ept i="2">&lt;/i&gt;</ept> auprès de <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>l&apos;institution féd<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>érale<ept i="1">&lt;/b&gt;</ept> dont relève le document.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-082"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <hi x="5" type="term">head of</hi> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>a government institution<ept i="1">&lt;/b&gt;</ept> to whom a request for access to a record is made shall,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>subject to this Act<ept i="2">&lt;/i&gt;</ept>, within thirty days after the request is received, give written notice to the person who made the request <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>as to whether or not access to the record or a part thereof will be given.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Le responsable de</hi> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>l&apos;institution fédérale<ept i="1">&lt;/b&gt;</ept> à qui est faite la demande de communication d&apos;un document est tenu,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>sous réserve des autres dispositions de la présente loi<ept i="2">&lt;/i&gt;</ept>, dans les trente jours suivant la réception de la demande, de donner avis par écrit <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>à la personne qui a fait la demande de ce qu&apos;il sera donné suite ou non à celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-083"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Where <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>access to a record<ept i="2">&lt;/i&gt;</ept> or a part of a record is refused,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the head of the government institution<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">shall state in the</hi> notice given to the person who made the request the spe<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>cific provision of this Act on which the refusal is based.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>En cas de refus<ept i="2">&lt;/i&gt;</ept> de communication,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> totale ou partielle, d&apos;un document, <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le responsable de l&apos;institution fédérale<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">indique dans l&apos;avis prévu</hi> au paragraphe (1) la disposition p<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>récise de la présente loi sur laquelle se fonde le refus.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-084"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>head of<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>a government institution<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">may extend the time</hi> limit set out in subsection 7(1) in respect of a request for a record if the request is for a large number of re<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>cords or necessitates a search through a large number of records and meeting the ori<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ginal time limit would unreasonably interfere with the operations of the institution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le responsable<ept i="2">&lt;/i&gt;</ept> d&apos;<bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>une institution fédérale<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut proroger le délai</hi> mentionné au paragraphe 7(1) dans le cas où la demande porte sur un grand nombre de documents o<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>u nécessite des recherches dans un grand nombre de documents et où l&apos;observation<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> du délai prévu entraverait de façon sérieuse le fonctionnement de l&apos;institution.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-085"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Where <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the head of a <ept i="2">&lt;/i&gt;</ept>government institution<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">gives access to a</hi> record or a part of a record,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> the head shall give the person who requested access an opportunity to examine the record or <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>part thereof or shall provide the person with a copy thereof.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>En cas de communication<ept i="2">&lt;/i&gt;</ept> totale ou partielle d&apos;un document,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le responsable de l&apos;institution fédérale<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">donne à la personne</hi> qui en a fait la demande la possibil<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ité d&apos;examiner le document ou lui en remet une copie.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-086"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>head of<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>a government institution<ept i="1">&lt;/b&gt;</ept> may refuse to disclose any record requested under this Part that contains information that was obtained or prepared by a <hi x="5" type="term">government institution</hi>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>or a part of a government institution, that is an investigative body specified in the regulations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le responsable<ept i="2">&lt;/i&gt;</ept> d&apos;<bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>une institution fédérale<ept i="1">&lt;/b&gt;</ept> peut refuser la communication de documents contenant des renseignements obtenus ou préparés par une <hi x="5" type="term">institution fédérale</hi>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> ou par une subdivision d&apos;une telle inst<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>itution, qui constitue un organisme d&apos;enquête désigné par règlement.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-087"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The head of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>a government institution<ept i="1">&lt;/b&gt;</ept> shall refuse to disclose any record requested under<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> this Part that contains <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>personal informatio<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>n<ept i="2">&lt;/i&gt;</ept> as defined in section 3 of the <hi x="5" type="term">Privacy Act</hi>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le responsable d&apos;une <hi x="5" type="term">institution fédérale</hi> est tenu de refuser la communication de documents contenant les<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>renseignements personnels<ept i="2">&lt;/i&gt;</ept> visés à l&apos;article 3 de la<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Loi sur la protection des renseignements personnels<ept i="1">&lt;/b&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-088"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The head of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>a government institution<ept i="1">&lt;/b&gt;</ept> may refuse to disclose any record <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>requested under this Part that cont<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ains <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>trade secrets<ept i="2">&lt;/i&gt;</ept> of a <hi x="5" type="term">third party</hi>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le responsable d&apos;<bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>une institution fédérale<ept i="1">&lt;/b&gt;</ept> peut refuser la communi<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>cation de documents contenant de<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>s <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>secrets industriels<ept i="2">&lt;/i&gt;</ept> d&apos;un <hi x="5" type="term">tiers</hi>.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-089"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The Information Comm<ept i="2">&lt;/i&gt;</ept>issioner<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">shall receive and investigate</hi> complaints from <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>persons who have been refused access <it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>to a record requested under this Part.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commissaire à l&apos;i<ept i="2">&lt;/i&gt;</ept>nformation<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">reçoit les plaintes déposées</hi> par les personnes qui se sont vu r<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>efuser la communication de documents qu&apos;elles a<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>vaient demandés en vertu de la présente partie.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-090"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A complaint <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under this Act<ept i="2">&lt;/i&gt;</ept> shall be made to <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Information Comm<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>issioner<ept i="1">&lt;/b&gt;</ept> in <hi x="5" type="term">writing unless the C<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ommissioner</hi> authorizes otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">La plainte prévue par</hi> la présente loi doit être déposée <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>par écrit<ept i="2">&lt;/i&gt;</ept> auprès du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commissaire à l&apos;information<ept i="1">&lt;/b&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> à moins que celu<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>i-ci n&apos;autorise une autre forme de dépôt.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-091"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Information Commissioner<ept i="1">&lt;/b&gt;</ept> may,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> in the course of an investigation of a complaint <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under this Act<ept i="2">&lt;/i&gt;</ept>, examine any record to which this Act applies that<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> is under the control of a <hi x="5" type="term">government institution</hi>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Au cours de son<ept i="2">&lt;/i&gt;</ept> enquête,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Commissaire à l&apos;information<ept i="1">&lt;/b&gt;</ept> peut prendre connaissance de tout document relevant d&apos;une <hi x="5" type="term">institution féd<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>érale</hi> et auquel s&apos;applique la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-092"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><hi x="5" type="term">Notwithstanding any other Act</hi> of Parliament,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Information Commissioner<ept i="1">&lt;/b&gt;</ept> may, during the investigation of any complaint <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under this Act<ept i="2">&lt;/i&gt;</ept>,<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> examine any record to which this Act applies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Nonobstant toute autre loi<ept i="2">&lt;/i&gt;</ept> fédérale,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Commissaire à l&apos;information<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, au cours de</hi> son enquête sur une plainte déposée en vertu de la présente loi, prendre connaiss<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ance de tout document auquel s&apos;applique la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-093"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>There shall be an <hi x="5" type="term">Information Commissioner</hi>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> to be appointed <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>by the Governor in Council<ept i="2">&lt;/i&gt;</ept> after approval of the appointment by res<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>olution of the <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Senate and House of Commons<ept i="1">&lt;/b&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Est institué le poste<ept i="2">&lt;/i&gt;</ept> de Commissaire à l&apos;information,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> dont le titulaire est nommé par le gouverneur en conseil après approbation par réso<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>lution du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Sénat et de la Chambre des communes<ept i="1">&lt;/b&gt;</ept><hi x="5" type="term">.</hi></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-094"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>The Information Commissioner<ept i="1">&lt;/b&gt;</ept> shall rank as and have all the powers of a deputy head of a department,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> shall engage exclusively in the duties of the office of the <hi x="5" type="term">Information C<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ommissioner</hi> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>under this Act<ept i="2">&lt;/i&gt;</ept> or any other Act of Parliament.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commissaire à l&apos;i<ept i="2">&lt;/i&gt;</ept>nformation<ept i="1">&lt;/b&gt;</ept> a <hi x="5" type="term">rang et pouvoirs d&apos;administrateur</hi> général de ministère;<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> il se consacre exclusivement aux fonctions que lui attrib<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>uent la présente loi ou toute autre loi fédérale.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-095"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Every <hi x="5" type="term">person commits an offence</hi> who,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>without lawful excuse<ept i="2">&lt;/i&gt;</ept>, obstructs <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the Information Commissioner<ept i="1">&lt;/b&gt;</ept> or any person acting on behalf or under the direction of the Commissioner in the perform<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ance of the Commissioner&apos;s duties and functions under this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><hi x="5" type="term">Commet une infraction quiconque,</hi> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>sans excuse légitime<ept i="2">&lt;/i&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> entrave l&apos;action du <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Commissaire à l&apos;information<ept i="1">&lt;/b&gt;</ept> ou de toute personne agissant en son nom ou sous son autorité dans l&apos;<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>exercice des attributions que lui confère la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-096"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>This <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Act is binding on<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Her <ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>Majesty<ept i="1">&lt;/b&gt;</ept> in <hi x="5" type="term">ri<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ght of Canada.</hi></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La présente loi lie<ept i="2">&lt;/i&gt;</ept> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Sa M<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ajesté<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">du ch<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ef du Canada.</hi></seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-097"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>The Governor in Coun<ept i="2">&lt;/i&gt;</ept>cil<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">may make regulations for</hi> carryi<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>ng the purposes and provisi<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>ons of this Act into effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Le <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>gouverneur en con<ept i="2">&lt;/i&gt;</ept>seil<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">peut, par règlement, prendre</hi> le<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph>s mesures nécessaires à l&apos;ap<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>plication de la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-098"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>government institution shall, within<ept i="1">&lt;/b&gt;</ept> sixty days after the end of each <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>fiscal year<ept i="2">&lt;/i&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> prepare a report on the administration of this Part during that fi<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>scal year and submit it to the <hi x="5" type="term">designated Minister</hi>.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>Chaque institution fédérale est<ept i="1">&lt;/b&gt;</ept> tenue de préparer,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>dans les soixante jours<ept i="2">&lt;/i&gt;</ept> suivant la fin de chaque exercice, un rapport sur l&apos;administration de la présente partie au cour<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>s de cet exercice et de le soumettre au <hi x="5" type="term">ministre désigné</hi>.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-099"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Where a <hi x="5" type="term">complaint is made to</hi> the <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Information Commissioner<ept i="2">&lt;/i&gt;</ept>,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> the Commissioner shall give <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the head of the government instituti<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>on<ept i="1">&lt;/b&gt;</ept> an opportunity to make representations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Dès qu&apos;une plainte lui<ept i="2">&lt;/i&gt;</ept> est soumise,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>le Commissaire à l&apos;information<ept i="1">&lt;/b&gt;</ept> donne au responsable de l&apos;<hi x="5" type="term">institution fédérale</hi> visée la pos<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it>sibilité de lui présenter ses observations.</seg>
+      </tuv>
+    </tu>
+    <tu
+      tuid="C-100"
+      creationdate="20260325T230100Z"
+      datatype="plaintext"
+      segtype="sentence">
+      <prop type="x-tmx-group">C</prop>
+      <prop type="x-tag-complexity">complex</prop>
+      <prop type="x-source">R.S.C. 1985, c. A-1 Access to Information Act</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>Federal Court<ept i="2">&lt;/i&gt;</ept> may,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> on application, review any decision of <bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>the head of a government institution<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">refusing access<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> to a</hi> record requested under this Part.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="2" x="2" type="italic">&lt;i&gt;</bpt>La Cour fédérale peut,<ept i="2">&lt;/i&gt;</ept> sur demande,<ph x="3" type="lb">&lt;br/&gt;<sub type="xref">cf. supra</sub></ph> procéder à la révision des décisions du responsable d&apos;<bpt i="1" x="1" type="bold">&lt;b&gt;</bpt>une institution fédérale<ept i="1">&lt;/b&gt;</ept> <hi x="5" type="term">de refuser la communication</hi> d&apos;un<it x="4" type="link" pos="begin">&lt;a href=""&gt;</it> document demandé en vertu de la présente partie.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
